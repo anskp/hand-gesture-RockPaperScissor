@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 3D RPS",
+  "description": "A real-time 3D Rock-Paper-Scissors game powered by MediaPipe. Detects hand gestures instantly via local computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
